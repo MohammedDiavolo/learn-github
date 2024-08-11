@@ -1,2 +1,2 @@
 # learn-github
-this file while i learning git &amp; gitHub
+this repo while i learning git &amp; gitHub
